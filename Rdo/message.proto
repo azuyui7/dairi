@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option csharp_namespace = "HogeMyHoge";
+
+import "google/protobuf/timestamp.proto";
+
+message Hoge {
+    google.protobuf.Timestamp time = 1;
+    int32 hoge = 2;
+}
+

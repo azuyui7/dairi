@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rdo", "..\..\Rdo\Rdo.csproj", "{F030518F-0830-4E27-ABF8-D6D0307EFC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdoTestHelper", "..\..\RdoTestHelper\RdoTestHelper.csproj", "{B7DF19CE-3BD4-4100-B2E1-CE8E8D529114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E01", "E01.csproj", "{E2352233-CBC5-4053-AF0E-54F08F5C3EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F030518F-0830-4E27-ABF8-D6D0307EFC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F030518F-0830-4E27-ABF8-D6D0307EFC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F030518F-0830-4E27-ABF8-D6D0307EFC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F030518F-0830-4E27-ABF8-D6D0307EFC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DF19CE-3BD4-4100-B2E1-CE8E8D529114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DF19CE-3BD4-4100-B2E1-CE8E8D529114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DF19CE-3BD4-4100-B2E1-CE8E8D529114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DF19CE-3BD4-4100-B2E1-CE8E8D529114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2352233-CBC5-4053-AF0E-54F08F5C3EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2352233-CBC5-4053-AF0E-54F08F5C3EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2352233-CBC5-4053-AF0E-54F08F5C3EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2352233-CBC5-4053-AF0E-54F08F5C3EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
